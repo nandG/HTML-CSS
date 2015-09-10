@@ -1,0 +1,42 @@
+body {
+	font-family: sans-serif;
+}
+
+.logo {
+	border-radius: 100%;
+	background: #D5245B;
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.text-increase {
+	font-weight: 900;
+	font-size: 50px;
+}
+
+hr {
+	border: 1px solid #D0C4AB;	
+}
+
+.bg-dark {
+	background-color: #131A2D;
+}
+
+.top-margin {
+	margin-top: 20px;
+}
+
+.img-stretch {
+	width: 1170px;
+}
+
+.text-lighten {
+	color: #D0C4AB;
+}
+
+
+
+
+
